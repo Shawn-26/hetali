@@ -212,20 +212,20 @@ function Body() {
               <p>Site Map</p>
             </div>
             <div className="footer__22">
-              <p>Quick Links</p>
-              <p>Contact Us</p>
-              <p>About Us</p>
-              <p>Testimonial</p>
-              <p>Gallery</p>
-              <p>Site Map</p>
+              <p>Flats in Mumbai</p>
+              <p>1BHK Andheri West</p>
+              <p>2 BHK Andheri West</p>
+              <p>2 BHK Andheri West</p>
+              <p>1BHK Goregaon East</p>
+              <p>2BHK Goregaon East</p>
             </div>
             <div className="footer__23">
-              <p>Quick Links</p>
-              <p>Contact Us</p>
-              <p>About Us</p>
-              <p>Testimonial</p>
-              <p>Gallery</p>
-              <p>Site Map</p>
+              <p>Projects in Mumbai</p>
+              <p>Ongoing</p>
+              <p>Upcoming</p>
+              <p>Completed</p>
+              <p>Hetali Blessings</p>
+              <p>Hetali Anuchhaya</p>
             </div>
           </div>
         </div>
