@@ -499,7 +499,7 @@
 }
 
 .footer__22 > p {
-    width: 66px;
+    width: 200px;
     height: 18px;
 
     font-family: 'Roboto Flex';
@@ -511,12 +511,12 @@
 
 
     color: #FFFFFF;
-    margin-right: 50px;
+    /* margin-right: 50px; */
 
 }
 
 .footer__23 > p {
-    width: 66px;
+    width: 200px;
     height: 18px;
 
     font-family: 'Roboto Flex';
@@ -528,6 +528,6 @@
 
 
     color: #FFFFFF;
-    margin-right: 50px;
+    /* margin-right: 50px; */
 
 }
